@@ -1,2 +1,2 @@
 # practice
-for practice only
+for practice of Git only
